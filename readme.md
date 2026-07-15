@@ -4,11 +4,12 @@
 
 O Conversor de Unidades de Temperatura é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. O sistema permite converter temperaturas entre Celsius (°C), Fahrenheit (°F) e Kelvin (K) de forma rápida e prática.
 
-O projeto foi desenvolvido como atividade da disciplina, utilizando Git e GitHub para controle de versões e trabalho colaborativo.
+O projeto foi desenvolvido como atividade da disciplina, utilizando Git e GitHub para controle de versões e trabalhgit statuso colaborativo.
 
 ---
 
 ## 👥 Integrantes
+Projeto desenvolvido em equipe utilizando Git e GitHub para controle de versões e colaboração.
 
 | Nome | Usuário GitHub |
 |------|----------------|
