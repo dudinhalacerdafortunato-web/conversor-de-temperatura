@@ -112,6 +112,10 @@ button:hover {
 /* Responsividade */
 @media (max-width: 500px) {
 
+    body {
+        padding: 15px;
+    }
+
     .container {
         width: 90%;
         padding: 20px;
