@@ -22,11 +22,11 @@ Projeto desenvolvido em equipe utilizando Git e GitHub para controle de versões
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+- HTML5 (estrutura da aplicação)
+- CSS3 (estilização da interface)
+- JavaScript (lógica das conversões)
+- Git (controle de versões)
+- GitHub (hospedagem e colaboração do projeto)
 
 ---
 
