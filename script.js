@@ -17,10 +17,10 @@ function converter() {
     return;
 }
 
-    if (origem === destino) {
-        resultado.innerHTML = `Resultado: ${temperatura.toFixed(2)}°`;
-        return;
-    }
+   if (origem === destino) {
+    resultado.innerHTML = `✅ Não é necessário converter: ${temperatura.toFixed(2)}°`;
+    return;
+}
 
     let valorFinal;
 
