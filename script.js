@@ -12,6 +12,11 @@ function converter() {
         return;
     }
 
+    if (origem === "kelvin" && temperatura < 0) {
+    resultado.innerHTML = "⚠️ Kelvin não pode possuir valor negativo!";
+    return;
+}
+
     if (origem === destino) {
         resultado.innerHTML = `Resultado: ${temperatura.toFixed(2)}°`;
         return;
