@@ -9,6 +9,7 @@ O projeto foi desenvolvido como atividade da disciplina, utilizando Git e GitHub
 ---
 
 ## 👥 Integrantes
+
 Projeto desenvolvido em equipe utilizando Git e GitHub para controle de versões e colaboração.
 
 | Nome | Usuário GitHub |
@@ -31,6 +32,8 @@ Projeto desenvolvido em equipe utilizando Git e GitHub para controle de versões
 ---
 
 ## ⚙️ Funcionalidades
+
+A aplicação possui uma interface simples e intuitiva para facilitar o uso pelo usuário.
 
 - Conversão de Celsius para Fahrenheit.
 - Conversão de Celsius para Kelvin.
