@@ -76,6 +76,8 @@ conversor-de-temperatura
 
 ## 🏷️ Versionamento
 
+O projeto passou por melhorias durante seu desenvolvimento, incluindo ajustes na interface e funcionalidades.
+
 ### Versão 1.0.0
 
 - Conversor funcional.
