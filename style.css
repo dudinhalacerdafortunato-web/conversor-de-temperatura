@@ -66,7 +66,8 @@ select {
 .botoes {
     display: flex;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 25px;
+    gap: 10px;
 }
 
 /* Botão Converter */
