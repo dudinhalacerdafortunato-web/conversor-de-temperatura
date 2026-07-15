@@ -61,6 +61,8 @@ function converter() {
 
 function limparCampos() {
 
+    alert("🧹 Campos limpos!");
+    
     document.getElementById("temperatura").value = "";
 
     document.getElementById("origem").selectedIndex = 0;
