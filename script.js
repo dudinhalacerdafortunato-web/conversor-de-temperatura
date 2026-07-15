@@ -4,6 +4,8 @@ function converter() {
     const origem = document.getElementById("origem").value;
     const destino = document.getElementById("destino").value;
     const resultado = document.getElementById("resultado");
+   
+    resultado.innerHTML = "🔄 Convertendo temperatura...";
 
     if (isNaN(temperatura)) {
         resultado.innerHTML = "⚠️ Digite uma temperatura válida!";
